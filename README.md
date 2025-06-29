@@ -63,11 +63,7 @@ npm run dev
 
 ## Usage
 
-1. The application will be available at:
-   - Frontend: http://localhost:5173
-   - Backend API: http://localhost:8000
-
-2. You can now:
+1. You can now:
    - View all diary entries on the main page
    - Add new diary entries
    - Edit existing entries
